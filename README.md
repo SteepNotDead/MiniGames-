@@ -1,4 +1,4 @@
-# MiniGames-
+# MiniGames
 Используемые плагины, для создания единой стилизации проекта
 
 1. PlaceholderAPI
